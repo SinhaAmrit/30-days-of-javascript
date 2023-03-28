@@ -17,6 +17,7 @@ JavaScript, HTML, CSS
 
 - [Day - 1 -> JS Drum Kit](https://sinhaamrit.github.io/30-days-of-javascript/Day-1/)
 - [Day - 2 -> JS + CSS Clock](https://sinhaamrit.github.io/30-days-of-javascript/Day-2/)
+- [Day - 3 -> Update CSS Variables](https://sinhaamrit.github.io/30-days-of-javascript/Day-3/)
 
 ## Author
 
